@@ -1,0 +1,7 @@
+[package]
+name = "web_test"
+version = "0.1.0"
+authors = ["chenenjie <chenenjiejiang@Gmail.com>"]
+
+[dependencies]
+hyper = "*"
